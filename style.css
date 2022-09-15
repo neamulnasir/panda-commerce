@@ -1,7 +1,4 @@
-.orange-bg{
-    background-color: #fceae8;
-    border-radius: 10px;
-}
+
 .carousel-item{
     background-color: #fceae8;
     padding: 20px 40px;
@@ -19,4 +16,13 @@
 }
 .container{
     margin-bottom: 100px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
 }
